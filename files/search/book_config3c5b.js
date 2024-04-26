@@ -1,0 +1,1 @@
+﻿var textForPages = ["","","","","","","","","","","","","","","","","","NOS PARTENAIRES    17","NOS REALISATIONS    18","0661296990 - 0600070127"]; var positionForPages = [];
