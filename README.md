@@ -1,10 +1,10 @@
 # web-book-style-catalogue
-HTML5 &amp; PHP web book style catalogue / menu
+HTML5 &amp; Web book style catalogue / menu
 
 
 Welcome to My Online Web Menu project!
 
-This repository hosts a simple and elegant online menu system built using HTML5, JavaScript, PHP, and CSS. Whether you're managing a small café or a bustling restaurant, this solution offers a hassle-free way to showcase your menu items and streamline the ordering process for your customers.
+This repository hosts a simple and elegant online menu system built using HTML5, JavaScript and CSS. Whether you're managing a small café or a bustling restaurant, this solution offers a hassle-free way to showcase your menu items and streamline the ordering process for your customers.
 
 Key features include:
 - Responsive Design: Ensures optimal viewing experience across a wide range of devices, from desktops to smartphones.
